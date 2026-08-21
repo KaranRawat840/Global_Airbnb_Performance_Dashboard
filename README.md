@@ -24,7 +24,7 @@ This project is a 3-page Power BI report exploring global Airbnb listing data �
 | **Ratings** | Review score breakdowns (accuracy, cleanliness, check-in, communication, location, value), host quality signals |
 | **Reviews** | Review volume trends over time, reviewer frequency/loyalty, seasonality |
 
-> 📸 *Add your own dashboard screenshots to `assets/` and reference them here — e.g. `![Overview page](assets/overview.png)` — once you export them from Power BI Desktop.*
+![Overview page](https://github.com/KaranRawat840/Global_Airbnb_Performance_Dashboard/blob/main/assets/Overview.png)` 
 
 ---
 
