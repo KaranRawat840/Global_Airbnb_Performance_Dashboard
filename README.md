@@ -18,7 +18,7 @@
 
 This project is a 3-page Power BI report exploring global Airbnb listing data — pricing, hosts, room types, review scores, and booking behavior — across **Paris, New York, Sydney, Rome, Rio de Janeiro, Istanbul, Mexico City, Bangkok, Cape Town, and Hong Kong**.
 
-*Live Dashboard* :  [Live Dashboard](https://github.com/KaranRawat840/Global_Airbnb_Performance_Dashboard/blob/main/assets/Reviews.png)
+*[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTZiMzU1MGYtNWVmOC00MTE0LTlmNTctOTk3YzYzYTE1NTY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c251c7002f97eec8597f)*
 
 | Page | What it covers |
 |---|---|
