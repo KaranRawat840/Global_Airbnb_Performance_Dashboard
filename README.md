@@ -66,7 +66,6 @@ The model includes **32 custom DAX measures**, including:
 |---|---|---|
 | `Listings` | 279,712 | One row per listing — host, location, pricing, amenities, review scores |
 | `Reviews` | 5,373,143 | One row per review — listing, reviewer, date, review frequency flags |
-| `LocalDateTable_*` / `DateTableTemplate_*` | — | Auto-generated Power BI date tables for time intelligence |
 
 **Key columns (Listings):** `listing_id`, `host_id`, `host_since`, `host_is_superhost`, `host_response_time`, `neighbourhood`, `city`, `property_type`, `room_type`, `accommodates`, `bedrooms`, `price`, `review_scores_*`, `instant_bookable`
 
