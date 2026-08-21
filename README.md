@@ -91,9 +91,7 @@ The model includes **32 custom DAX measures**, including:
 
 ```
 airbnb-dashboard/
-├── dashboard.pbix          # Power BI report file
 ├── README.md                # You are here
-├── LICENSE
 ├── docs/
 │   └── key-insights.md      # Extended write-up of findings
 └── assets/
