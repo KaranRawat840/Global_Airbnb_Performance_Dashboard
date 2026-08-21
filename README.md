@@ -111,12 +111,6 @@ airbnb-dashboard/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details. Underlying Airbnb listings data is used for educational/portfolio purposes only.
-
----
-
 <div align="center">
 <sub>Built with Power BI · Data as of March 2021</sub>
 </div>
