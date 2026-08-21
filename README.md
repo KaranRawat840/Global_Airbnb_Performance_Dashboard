@@ -33,6 +33,7 @@ This project is a 3-page Power BI report exploring global Airbnb listing data â€
 ![Ratings page](https://github.com/KaranRawat840/Global_Airbnb_Performance_Dashboard/blob/main/assets/Ratings.png)
 
 *Reviews Page*
+
 ![Overview page](https://github.com/KaranRawat840/Global_Airbnb_Performance_Dashboard/blob/main/assets/Reviews.png)
 
 ---
