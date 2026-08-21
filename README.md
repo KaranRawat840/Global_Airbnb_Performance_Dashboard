@@ -96,7 +96,7 @@ airbnb-dashboard/
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
 2. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/airbnb-dashboard.git
+   git clone https://github.com/KaranRawat840/Global_Airbnb_Performance_Dashboard.git
    ```
 3. Open `dashboard.pbix` in Power BI Desktop.
 4. Explore the **Overview**, **Ratings**, and **Reviews** pages, or connect it to Power BI Service to publish/share.
