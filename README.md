@@ -25,7 +25,15 @@ This project is a 3-page Power BI report exploring global Airbnb listing data â€
 | **Reviews** | Review volume trends over time, reviewer frequency/loyalty, seasonality |
 
 *Overview Page*
-![Overview page](https://github.com/KaranRawat840/Global_Airbnb_Performance_Dashboard/blob/main/assets/Overview.png)` 
+
+![Overview page](https://github.com/KaranRawat840/Global_Airbnb_Performance_Dashboard/blob/main/assets/Overview.png)
+
+*Ratings Page*
+
+![Ratings page](https://github.com/KaranRawat840/Global_Airbnb_Performance_Dashboard/blob/main/assets/Ratings.png)
+
+*Reviews Page*
+![Overview page](https://github.com/KaranRawat840/Global_Airbnb_Performance_Dashboard/blob/main/assets/Reviews.png)
 
 ---
 
